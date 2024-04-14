@@ -3,8 +3,8 @@ This directory contains the dotfiles for my system
 
 ## What I use
 - OS: [Arch Linux](https://archlinux.org/)
-- Window Mananger: [bspwm](https://github.com/baskerville/bspwm)
-- Bar: [Polybar](https://github.com/polybar/polybar)
+- Window Mananger: [dwm](https://github.com/sr/dwm)
+- Bar: [vanilla dwm bar]
 - IDE: [Neovim](https://github.com/neovim/neovim)
 - Terminal: [Kitty](https://github.com/kovidgoyal/kitty)
 - Shell: [fish](https://github.com/fish-shell/fish-shell)
