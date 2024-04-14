@@ -1,0 +1,14 @@
+2024/04/05-19:29:06.430 3b3 Reusing MANIFEST /home/decipher/.config/google-chrome/Profile 1/IndexedDB/chrome-extension_bfnaelmomeimhlpmgjnjophhpkkoljpa_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/05-19:29:06.430 3b3 Recovering log #29
+2024/04/05-19:29:06.430 3b3 Reusing old log /home/decipher/.config/google-chrome/Profile 1/IndexedDB/chrome-extension_bfnaelmomeimhlpmgjnjophhpkkoljpa_0.indexeddb.leveldb/000029.log 
+2024/04/05-19:29:06.431 3b3 Delete type=2 #27
+2024/04/05-19:29:36.367 3a7 Level-0 table #34: started
+2024/04/05-19:29:36.369 3a7 Level-0 table #34: 1106 bytes OK
+2024/04/05-19:29:36.370 3a7 Delete type=0 #29
+2024/04/05-19:29:36.371 3a7 Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x09\x00\x00\xc8\x06\x00v\x00a\x00l\x00u\x00e\x00s' @ 532 : 1
+2024/04/05-19:29:36.371 3a7 Compacting 1@0 + 1@1 files
+2024/04/05-19:29:36.372 3a7 Generated table #35@0: 35 keys, 800 bytes
+2024/04/05-19:29:36.372 3a7 Compacted 1@0 + 1@1 files => 800 bytes
+2024/04/05-19:29:36.373 3a7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/04/05-19:29:36.374 3a7 Delete type=2 #34
+2024/04/05-19:29:36.374 3a7 Manual compaction at level-0 from '\x00\x09\x00\x00\xc8\x06\x00v\x00a\x00l\x00u\x00e\x00s' @ 532 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)

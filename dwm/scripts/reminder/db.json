@@ -1,0 +1,12 @@
+{
+  "1" : {
+    "desc" : "Google Cyber Security Webinar on Coursera",
+    "date" : "2024,1,17,17,30,0",
+    "reminder" : 30
+  },
+  "2" : {
+    "desc" : "ISA Reading",
+    "date" : "2024,1,16,17,30,0",
+    "reminder" : 30
+  }
+}

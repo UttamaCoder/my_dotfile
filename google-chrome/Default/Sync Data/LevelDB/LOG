@@ -1,0 +1,6 @@
+2024/04/14-20:32:40.595 2772 Reusing MANIFEST /home/decipher/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/04/14-20:32:40.595 2772 Recovering log #3
+2024/04/14-20:32:40.596 2772 Reusing old log /home/decipher/.config/google-chrome/Default/Sync Data/LevelDB/000003.log 
+2024/04/14-20:32:56.136 2773 Level-0 table #5: started
+2024/04/14-20:32:56.138 2773 Level-0 table #5: 157213 bytes OK
+2024/04/14-20:32:56.139 2773 Delete type=0 #3
